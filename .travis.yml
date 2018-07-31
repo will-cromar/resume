@@ -14,5 +14,4 @@ deploy:
   file: _build/WilliamCromarResume.pdf
   skip_cleanup: true
   on:
-    tags: true
     repo: will-cromar/resume
